@@ -1,16 +1,22 @@
+import dotenv from "dotenv";
+dotenv.config();
 import express from "express";
-import bodyParser from "body-parser";
-import bookRouter from "./routes/bookRoutes";
-import logger from "./utils/logger";
-
+import cors from "cors";
+import helmet from "helmet";
+import BookRoutes from "./app/books/routes";
+import { requestLogger, errorlogger, corsLogger } from "./app/utils/logger";
 const app = express();
-const port = process.env.PORT || 3000;
+app.use(express.json());
+app.use(cors());
+app.use(helmet());
 
 
-app.use(bodyParser.json());
+app.use(requestLogger);
+app.use(errorlogger);
+app.use(corsLogger);
+app.use("/api", BookRoutes);
 
-app.use("/books", bookRouter);
-
-app.listen(port, () => {
-    logger.info(`Server is running on the port ${port}`);
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+    console.log(`Server running on port ${PORT}`);
 })

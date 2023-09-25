@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "book-shelving",
+    "private_key_id": "819dfc63f98349e9bd42c9a8445925cf3d167c2d",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCrWqg5/qQeaR7N\nDuizYAARaw6b1FbwFhvFJHt9yUBvm5JFM4qUw9L2fwDH3x+mSGLUVdutr75Pf6dc\n0EppU7NgCC0Mz04Gh6Ur/xnJTbj5ID6gIblaCbxhdDdiPaq9pcO3SQCWJD7ihLVR\nlfOf9Au3YdJTyvukG74e7l5dq2I+hkmYkEk7BL+iRhCugKxngOeXfPQQQMy22sFa\nBFUoh8FXUcKJnGxtCkqVJSr7snlu7sz5huCGMcNZJKDAdWa7npr3s8a29oqU7yeR\nD7Ao65353gjVu1wRjYp1a052O3MhTTfhPtRS2NoZeIsvbMRgXqhX4ci8BQpIXt3d\nBm0yObGPAgMBAAECggEAD1ActIITEedRqgA+ag6W3aJJk0IYkCq0SfExWqj/fyR8\nn9Pepd4SHkEfRWf6dhZbQ/UgRUHtVJa90seHvtM3YR+Z7F53meceqvMzJLreCuAH\neLFK1Rxa9K05aH1w+Ahg7czc++M6qMI0n0PdRQVpfqEuoJpafpc+wu4ztKnk2l1p\nn6VrwfAKF60nzsCiRELKBqlS8g75oimFsGjw14NbmTQ3NB5xfg9lduupgUy8/ADZ\nkN+NrR2NHZ9usfW29qhji/jVAXH2mG76cvbVL2I66KPENGlLjL4kFiSbZUGwQbcs\nFfte4XpGREDWnnsUL1pX42xJz1oaB4yDcnmFASw88QKBgQDgLqTEGSo+5I4q9ArG\nfCz/XxodXIKZuqPkUeIZH7K+ne7yaVr13KFCerDGtmSIu/C1OV0hnFtwg1Vkqk3q\n6Pio4RKvGU58pfHdLYeT+Wp8dlN/wdM+hBPIWHJqYJgyWChd4bZ0rcvW2pQCWIoN\nKybgQkvXIUY3rZR3g24Bvk1GUwKBgQDDrJO+2872P5KPy/vfAMIar8Y5qVBpMfyH\nzG0hHi7yuwanFNkZO+SUUF+u6n3kqS3uaYmYIJFd6mNQMOMqvMq9w+ln0+cr0H9z\nveYccDjZeC0Lcegs6HdNp64i6uY9SSeDFGRY58LrW0GoqVoiQGKBdTAwcoGRK5EB\n8lZSkM5IVQKBgQCJEvwcC2cRXZ6wFNgh1PuOig/ltBMG/GAJ0yd0RTV96AOapWDA\nxE61318Hoa6HDKN5q8GOM5SVjzg/fQJ3iEvCtxw9hDPBc5YXrycfC3pY7+DOVS1d\nJFUUQ0ByWu20msLT5JczcLEahjvJ02lV8/SpWuAUgnv0v2XwTaSN3FZTkQKBgQCZ\nnhQD49dQdcpfP/qGMbcxckvCGw24+HhUOIZ4WJTtFS184J4r9FxYn9zumsOpT7Ry\nlsJh/zeArrG3VBoUBFF6t6K3U6IKQM6+lBhivSu0d2eNs6heEUcQXRMV8Ko+9P6j\nJtA9B/57/ZHHkuTjPP7YuaLSdiMIUFawW4uvmGWKXQKBgFt8tniE+NerzEG2HwF6\nkf8RE7Hxik25wlrGXP+km91ZVH0stq2ytEIXIgpZcngSq6eyKayrufzuMCtDEZW9\nzgZDbNjLTRogZBEkirDN407aVWmXI4kUqqbSbFAC25UOJXH9b9naG52cmvNGJIOl\nBgjRr0eR9atezBAbbEUYEPw8\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-w5lja@book-shelving.iam.gserviceaccount.com",
+    "client_id": "111675921378130745808",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-w5lja%40book-shelving.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+}
